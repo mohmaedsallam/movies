@@ -1,3 +1,8 @@
+ ![Screenshot_20240517-204650_moviestart~2](https://github.com/mohmaedsallam/movies/assets/102430750/cbac3170-a27a-4415-8133-154a54962303)
+![Screenshot_20240517-204428_moviestart~2](https://github.com/mohmaedsallam/movies/assets/102430750/063d8d8e-4e17-44b0-b6da-04c8db6b6e8b)
+![Screenshot_20240517-204349_moviestart~2](https://github.com/mohmaedsallam/movies/assets/102430750/0339dc09-2c41-4861-b597-f0ad50209430)
+![Screenshot_20240517-204318_moviestart~2](https://github.com/mohmaedsallam/movies/assets/102430750/ef3de847-fe7a-4cdb-a0d2-4ce5f54fe78f)
+![Screenshot_20240517-204312_moviestart~2](https://github.com/mohmaedsallam/movies/assets/102430750/3220b511-dbc6-418e-994e-a7a855a420de)
 # Epic Universal React Native App
 
 Welcome to the Epic Universal React Native App! This project is a comprehensive application built with React Native, designed to run seamlessly on both mobile and web platforms. It leverages the power of Expo Router for file-based routing, Tamagui for styling, and Tanstack Query for state management. Get ready to embark on an exciting journey of building a feature-rich app that fetches and displays movie data from the popular movie database API.
