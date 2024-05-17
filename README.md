@@ -19,7 +19,7 @@ To get started with the Epic Universal React Native App, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/epic-universal-react-native-app.git
+   git clone https://github.com/mohmaedsallam/movies.git
    ```
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ To get started with the Epic Universal React Native App, follow these steps:
 4. Start the development server:
 
    ```bash
-   npm start
+   npm expo start
    ```
 
    This command will start the Expo development server and provide you with options to run the app on your preferred platform (web, iOS simulator, or Android emulator).
