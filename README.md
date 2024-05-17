@@ -11,6 +11,7 @@ Welcome to the Epic Universal React Native App! This project is a comprehensive 
 - **Tanstack Query**: State management is a crucial aspect of any application, and we've chosen Tanstack Query to handle it efficiently. Tanstack Query provides a robust and efficient way to fetch, cache, and update asynchronous data, ensuring a smooth and reactive user experience.
 
 - **Movie Database API Integration**: This app seamlessly integrates with the popular movie database API, allowing you to fetch and display movie data, including titles, descriptions, ratings, and more. Get ready to explore a vast collection of movies and create engaging user experiences around them.
+- **react-native-mmkv**: The app incorporates react-native-mmkv, a powerful and efficient key-value storage solution, which enables persistent local storage. This feature allows users to favorite movies, enhancing their personalized experience.
 
 ## Getting Started
 
