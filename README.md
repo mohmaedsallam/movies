@@ -26,7 +26,7 @@ To get started with the Epic Universal React Native App, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd epic-universal-react-native-app
+   cd moviestar-stream-main
    ```
 
 3. Install dependencies:
